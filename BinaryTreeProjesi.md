@@ -1,4 +1,4 @@
-# Ninary Search
+# Binary Search
 
 Bu dosya [patika.dev]'de binary search tree projesi bulunmaktadır.
 ***
