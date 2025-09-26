@@ -1,1 +1,11 @@
+# Insertion Sort Porjesi
 
+Burada [patika.dev] 'e ait olan ["Veri Yapıları ve Algortimalar"] dersinin [**Inserition Sort**] ödevini içermektedir.
+
+**[22,27,16,2,18,6]**
+
+***
+1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+
+- **Yanıt:**
+>[**2**,27,16,,22,18,6]
