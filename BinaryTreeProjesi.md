@@ -3,7 +3,9 @@
 Bu dosya [patika.dev]'de binary search tree projesi bulunmaktadır.
 ***
 1. [7,5,1,8,3,6,0,9,4,2] dizisinin Binary Search Tree aşamalarını yazınız.
+   
    örnek: root x'dir. root'un sağında y bulunur. solunda z bulunur vb.
+   
 * **Yanıt:**
   
   >root 7'dir. Solunda 5, sağında 8 bulunur.
